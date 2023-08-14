@@ -1,7 +1,3 @@
-[![Sync to Hugging Face hub](https://github.com/sangnguyens/huggingface-mlops-demo/actions/workflows/main.yml/badge.svg)](https://github.com/sangnguyens/huggingface-mlops-demo/actions/workflows/main.yml)
-
-# huggingface-mlops-demo
-
 ---
 title: Demo
 emoji: 🌖
@@ -13,6 +9,10 @@ app_file: app.py
 pinned: false
 license: cc
 ---
+
+[![Sync to Hugging Face hub](https://github.com/sangnguyens/huggingface-mlops-demo/actions/workflows/main.yml/badge.svg)](https://github.com/sangnguyens/huggingface-mlops-demo/actions/workflows/main.yml)
+
+# huggingface-mlops-demo
 
 [Try Demo Text Summarization Here](https://huggingface.co/spaces/Nguyens/mlops-demo)
 
