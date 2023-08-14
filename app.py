@@ -4,6 +4,7 @@ import gradio as gr
 
 model = pipeline(
     "summarization",
+    "captain-awesome/naveed-ggml-model-gpt4all-falcon-q4_0"
 )
 
 def predict(prompt):
